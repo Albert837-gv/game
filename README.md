@@ -19,6 +19,6 @@ Memory: 8 GB RAM
 Graphics Card: NVIDIA GeForce GTX 1060 or equivalent
 Storage Space: 10 GB available space
 Contact Developers
-For feedback and suggestions, please reach out at email@example.com.
+
 
 Feel free to customize this template based on the specifics of your game!
